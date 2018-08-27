@@ -52,7 +52,7 @@
     "enzyme-to-json": "^3.3.0",
     "eslint": "^4.6.1",
     "eslint-plugin-react": "^7.3.0",
-    "extract-react-types-loader": "^0.1.2",
+    "extract-react-types-loader": "^0.2.1",
     "flow-bin": "^0.72.0",
     "gh-pages": "^1.1.0",
     "html-webpack-plugin": "^2.30.1",

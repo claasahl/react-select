@@ -3823,15 +3823,15 @@ extglob@^2.0.4:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-extract-react-types-loader@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/extract-react-types-loader/-/extract-react-types-loader-0.1.2.tgz#4cfcc0f2612f5b4acc5693102da6c8d02ff435fc"
+extract-react-types-loader@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/extract-react-types-loader/-/extract-react-types-loader-0.2.1.tgz#de20342638d695b7f6ce59bfa19f7c41fe71071b"
   dependencies:
-    extract-react-types "^0.9.0"
+    extract-react-types "^0.12.1"
 
-extract-react-types@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/extract-react-types/-/extract-react-types-0.9.0.tgz#553986e465d385855f37c629178a04f4552fd11e"
+extract-react-types@^0.12.1:
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/extract-react-types/-/extract-react-types-0.12.1.tgz#3be6487851b2a26d048d768705552b1d39d03ae7"
   dependencies:
     ast-pretty-print "^2.0.1"
     babel-core "7.0.0-alpha.19"
